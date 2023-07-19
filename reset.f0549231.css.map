@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,SAGE,QAAS,CACT,SACF","file":"reset.f0549231.css","sourceRoot":"..\\src","sourcesContent":["ol,\nul,\nli {\n  margin: 0;\n  padding: 0;\n}\n"]}
